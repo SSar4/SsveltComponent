@@ -1,7 +1,7 @@
-# Teste técnico - Programa LabLuby JS
+# PWII - Svelte JS
 
 
-## _Desafio nodejs_ 
+## _Svelte_ 
 
 <img src="https://miro.medium.com/max/1200/0*T6pKJjgoPIBy_u-_.png" width="120" height="80" />
 
