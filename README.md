@@ -33,7 +33,7 @@
 # ⚙️ Instalação e execução 
 
 1. Faça um clone/download desse repositório;
-2. Entre na pasta **cd svelte-tutorial**;
+2. Entre na pasta **cd SsveltComponent-main**;
 3. Rode **yarn** ou **npm install** para instalar as dependências;
 4. rode **npm run dev**
 
